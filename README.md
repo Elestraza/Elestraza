@@ -16,6 +16,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="reactjs" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40" />&nbsp;
   </div>
+  <div>
+    <p>My best work at current moment</p>
+    https://github.com/EGAProg/JenkinsParser
+    https://github.com/EGAProg/AstralPanelBack
+  </div>
   <div id="other" align="center">
     <p>- ⚡ Fun fact: guitar player</p>
   </div>
