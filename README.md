@@ -1,5 +1,11 @@
 <html>
-  <head></head>
+  <head>
+    <style>
+     div{
+      margin-bottom: -7px; /* Отступ снизу */
+     }
+    </style>
+  </head>
   <body>
     <div id="stats" align="center" margin-bottom="10px">
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight" />&nbsp;
