@@ -1,13 +1,4 @@
-<html>
-  <head>
-    <style>
-     div{
-      margin-bottom: -7px; /* Отступ снизу */
-     }
-    </style>
-  </head>
-  <body>
-    <div id="stats" align="center" margin-bottom="10px">
+<div id="stats" align="center" margin-bottom="10px">
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight" />&nbsp;
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight" />&nbsp;
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight" />&nbsp;
@@ -30,5 +21,3 @@
     <div id="other" align="center">
       <p>- ⚡ Fun fact: guitar player</p>
     </div>
-  </body>
-</html>
