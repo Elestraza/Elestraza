@@ -14,5 +14,6 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="reactjs" width="40" height="40" />&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40" />&nbsp;
 </div>
-## This was my task for practice - [Jenkins Parser](https://github.com/EGAProg/JenkinsParser).
+## This was my task for practice - .
+[Jenkins Parser](https://github.com/EGAProg/JenkinsParser)
 - ⚡ Fun fact: guitar player
