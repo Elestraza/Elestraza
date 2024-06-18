@@ -1,8 +1,10 @@
 Hi there 👋
 ##
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight)
+<div id="stats" align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight)
+</div>
 ##
 Here are a few languages I know
 ## 
