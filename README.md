@@ -24,7 +24,7 @@ Egor Aleksandrovich Gysev
 > Работаю на смеси никотина и кофеина.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Долго думаю.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Минусов нет.
