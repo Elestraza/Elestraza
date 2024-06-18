@@ -25,7 +25,7 @@
     </div>
     <div id="bestrepo" align="center" margin-bottom="10px">
       <p>My best work at current moment</p>
-      [Jenkins Parser](https://github.com/EGAProg/JenkinsParser). This was my task for practice
+      This was my task for practice - [Jenkins Parser](https://github.com/EGAProg/JenkinsParser).
     </div>
     <div id="other" align="center">
       <p>- ⚡ Fun fact: guitar player</p>
