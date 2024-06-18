@@ -18,8 +18,7 @@
   </div>
   <div>
     <p>My best work at current moment</p>
-    https://github.com/EGAProg/JenkinsParser
-    https://github.com/EGAProg/AstralPanelBack
+    https://github.com/EGAProg/JenkinsParser - Jenkins Parser. This was my task for practice
   </div>
   <div id="other" align="center">
     <p>- ⚡ Fun fact: guitar player</p>
