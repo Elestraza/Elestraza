@@ -16,17 +16,12 @@ Egor Aleksandrovich Gysev
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="reactjs" width="40" height="40" />&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40" />&nbsp;
 </div>
-This was my task for practice - https://github.com/EGAProg/JenkinsParser.
-<br>
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> Работаю хорошо как и в офисе, так и на удаленке.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Работаю на смеси никотина и кофеина.
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
