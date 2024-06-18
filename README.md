@@ -18,6 +18,7 @@
 [Jenkins Parser](https://github.com/EGAProg/JenkinsParser)
 <br>
 - ⚡ Fun fact: guitar player
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
