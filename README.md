@@ -4,8 +4,9 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight" />&nbsp;
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight" />&nbsp;
   </div>
-  <p>Here are a few languages I know</p>
+  
   <div id="langs" align="center">
+    <p>Here are a few languages I know</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="cpp" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40" />&nbsp;
