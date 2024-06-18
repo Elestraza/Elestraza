@@ -1,11 +1,9 @@
 Гысев Егор Александрович <br>
 Egor Aleksandrovich Gysev
-<div id="stats" align="center" margin-bottom="10px">
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight" />&nbsp;
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight" />&nbsp;
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight" />&nbsp;
-</div>
-<div id="langs" align="center" margin-bottom="10px">
+       <br>
        <p>Here are a few languages I know</p>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" />&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="cpp" width="40" height="40" />&nbsp;
@@ -15,9 +13,8 @@ Egor Aleksandrovich Gysev
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="javascript" width="40" height="40" />&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="reactjs" width="40" height="40" />&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" title="solidity" width="40" height="40" />&nbsp;
-</div>
-## This was my task for practice - .
-[Jenkins Parser](https://github.com/EGAProg/JenkinsParser)
+
+This was my task for practice - [Jenkins Parser](https://github.com/EGAProg/JenkinsParser).
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
