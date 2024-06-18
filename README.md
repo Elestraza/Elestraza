@@ -1,5 +1,6 @@
 Hi there 👋
-
+##
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=github_dark)
 Here are a few languages I know
 ## 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" />&nbsp;
