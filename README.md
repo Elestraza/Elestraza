@@ -18,6 +18,7 @@ Egor Aleksandrovich Gysev
 </div>
 This was my task for practice - https://github.com/EGAProg/JenkinsParser.
 <br>
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
