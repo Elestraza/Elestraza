@@ -1,5 +1,4 @@
-Гысев Егор Александрович <br>
-Egor Aleksandrovich Gysev
+
 <div id="stats" align="center">
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight" />&nbsp;
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight" />&nbsp;
