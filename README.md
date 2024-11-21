@@ -1,8 +1,8 @@
 
 <div id="stats" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EGAProg&theme=moonlight" />&nbsp;
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EGAProg&theme=moonlight" />&nbsp;
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EGAProg&theme=moonlight" />&nbsp;
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elestraza&theme=moonlight" />&nbsp;
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elestraza&theme=moonlight" />&nbsp;
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elestraza&theme=moonlight" />&nbsp;
 </div>
 <div id="langs" align="center">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" />&nbsp;
